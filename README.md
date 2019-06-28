@@ -7,7 +7,7 @@
 - Read single product.
 - Delete product.
 - File upload.
-- File validation (extension, size, directorium),
+- File validation (extension, size, directorium).
 - Display files.
 - jQuery form validation
 - Smarty template engine for front-end
